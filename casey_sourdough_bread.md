@@ -37,6 +37,7 @@
 * Let it rest for 15min
 * Shape it into a loaf
 * Put grease or butter into the pot (so the bread would not stick to it)
+* Place the dough into the pot and let it sit for 2,5-3h
 * Pre-heat the oven to 230C
 * Put the pot into the oven for 40min with the lid on, then 10min with the lid off
 * ???
