@@ -5,9 +5,9 @@
 * Jar with the starter weigths 438g
 * Take out the starter from the fridge in the morning
 * It should weigth aroung 660g (with the jar)
-* Feed it 80g of flour and 80g of water (around 07:30)
+* Feed it 1:1 (water + flour) to ~915g (around 07:30)
 * Leave it be
-* Around 12:00 the jar weigths around 820g (the starter should have at least doubled its volume)
+* Around 12:00 the jar weigths around 915g (the starter should have at least doubled its volume)
 
 ## Mixing
 
