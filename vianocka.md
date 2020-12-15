@@ -38,6 +38,8 @@ Finalny stav rozkvasu vyzera takto:
 
 Potom to zakryjem a na 12 hodin necham spinkat.
 
+![Sleepy rozvkas](vianocka_9.jpg)
+
 ## Day 2
 
 to be continued
