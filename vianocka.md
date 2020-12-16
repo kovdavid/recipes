@@ -198,4 +198,30 @@ Potom opatrne polozime vianocku na plech:
 ![Vianocka na plech](vianocka_50.jpg)
 ![Vianocka na plech](vianocka_51.jpg)
 
-Vianocku zakryjeme a nechame pracovat 4 hodiny.
+Vianocku zakryjeme a nechame pracovat 4 hodiny. Potom vianocka vyzera takto:
+
+![Po 4 hodinach](vianocka_52.jpg)
+
+Nachystame vajicko v salke a natreme vianocku (aj boky - netreba sa toho bat. Vajicko doda vianocke farbu).
+
+![Vajicko](vianocka_53.jpg)
+![Natierame](vianocka_54.jpg)
+![Natrete](vianocka_55.jpg)
+
+Potom dame vianocku do rury na 7 minut na 230C.
+
+![230C](vianocka_56.jpg)
+![Vianocka v rure](vianocka_57.jpg)
+
+Vianocka po 7 minutach vyzera takto:
+
+![Vianocka po 7 minutach](vianocka_58.jpg)
+
+Stiahneme ruru na 175C. Potom otvorime dvere rury a dame papier na pecenie aj na vrch vianocky.
+
+![175C](vianocka_59.jpg)
+![Vianocka pod papierom na pecenie](vianocka_60.jpg)
+
+Po 30 minutach vybereme z rury hotove dielo:
+
+![Hotova vianocka](vianocka_61.jpg)
