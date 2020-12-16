@@ -107,4 +107,8 @@ Vysledkom ma byt taketo relativne tuhe a mastne cesto:
 ![Miesam](vianocka_25.jpg)
 ![Cesto](vianocka_26.jpg)
 
-Cesto zakryjeme a nechame pracovat na 1 hodinu.
+Cesto zakryjeme a nechame pracovat na 1 hodinu. Po 1 hodine to vyzera takto:
+
+![Cesto po 1 hodine](vianocka_27.jpg)
+
+Cesto trosku zmasirujeme - prelozime z jednej strany na druhu a pritlacime. Potom cesto zase zakryjeme a nechame dalej pracovat 1 hodinu.
