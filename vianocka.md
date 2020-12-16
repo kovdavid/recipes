@@ -112,3 +112,9 @@ Cesto zakryjeme a nechame pracovat na 1 hodinu. Po 1 hodine to vyzera takto:
 ![Cesto po 1 hodine](vianocka_27.jpg)
 
 Cesto trosku zmasirujeme - prelozime z jednej strany na druhu a pritlacime. Potom cesto zase zakryjeme a nechame dalej pracovat 1 hodinu.
+
+Po 2 hodinach cesto vyzera takto:
+
+![Cesto po 2 hodinach](vianocka_28.jpg)
+
+Cesto trosku zmasirujeme - prelozime z jednej strany na druhu a pritlacime. Potom cesto zase zakryjeme a nechame dalej pracovat 1 hodinu.
