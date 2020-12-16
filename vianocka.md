@@ -149,7 +149,7 @@ Potom pouzijeme obe ruky a nadalej rolujeme, roztahujeme to cesto:
 ![Skoro hotovo](vianocka_41.jpg)
 ![Hotovo](vianocka_42.jpg)
 
-Nachystame plech s papierom na pecenie. Kedze sme ekologicky, tak pouzijeme uz pouzity papier (vsimni si flak od chleba).
+Nachystame plech s papierom na pecenie. Kedze sme ekologicki, tak pouzijeme uz pouzity papier (vsimni si flak od chleba).
 
 ![Plech](vianocka_43.jpg)
 
