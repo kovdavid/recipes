@@ -118,3 +118,84 @@ Po 2 hodinach cesto vyzera takto:
 ![Cesto po 2 hodinach](vianocka_28.jpg)
 
 Cesto trosku zmasirujeme - prelozime z jednej strany na druhu a pritlacime. Potom cesto zase zakryjeme a nechame dalej pracovat 1 hodinu.
+
+Po 3 hodinach cesto vyzera takto:
+
+![Cesto po 3 hodinach](vianocka_29.jpg)
+
+Cesto rozdelime podla vahy na 6 rovnakych casti (cca 155g/kus):
+
+![Priprava delenia cesta](vianocka_30.jpg)
+![Delenie cesta](vianocka_31.jpg)
+![Delenie cesta](vianocka_34.jpg)
+
+Z jednotlivych casti spravime gule. Rukou ich postlacame a zrolujeme do gule:
+
+![Stlacanie](vianocka_35.jpg)
+![Rolovanie](vianocka_36.jpg)
+![Gule](vianocka_37.jpg)
+
+Potom tie gule zakryjeme na 20 minut:
+
+![Zakryte gule](vianocka_38.jpg)
+
+Po 20 minutach ideme konecne na to. Kazdu gulu zrolujeme do "pramenov". Naraz aj rolujeme, at stlacame cesto. Najprv jednou rukou (na zaciatku rolovania mame zavrete prste a potom ich postupne otvarame a tym roztahujeme cesto. Aplikujeme pri tom aj tlak).
+
+![Rolovanie jednou rukou](vianocka_39.jpg)
+
+Potom pouzijeme obe ruky a nadalej rolujeme, roztahujeme to cesto:
+
+![Rolovanie dvomi rukami](vianocka_40.jpg)
+![Skoro hotovo](vianocka_41.jpg)
+![Hotovo](vianocka_42.jpg)
+
+Nachystame plech s papierom na pecenie. Kedze sme ekologicky, tak pouzijeme uz pouzity papier (vsimni si flak od chleba).
+
+![Plech](vianocka_43.jpg)
+
+Jednotlive prame rozdelime do dvoch skupin po 3 a konce spojime/stlacime:
+
+![Pletenie](vianocka_44.jpg)
+![Pletenie](vianocka_45.jpg)
+
+Ideme na pletenie. Kazdy pramen je na pozicii L1-L3 a P1-P3 (cislo 1 je na kraji na oboch stranach):
+
+![Pramene](vianocka_pramene.jpg)
+
+Posun L1 -> P1 vyzera takto:
+
+![L1 -> P1](vianocka_46.jpg)
+
+To znamena, ze zoberem pramen na pozicii L1 a dam na P1. Tym padom pramen, ktory bol predtym na L2 je uz po novom na pozicii L1. Takto miesam jednotlive pramene.
+
+![Skoro hotove pletenie](vianocka_47.jpg)
+
+Pletenie robim v takomto poradi:
+
+* L1 -> P1
+* P2 -> L1
+* P1 -> P3
+* L2 -> P1
+* L1 -> L3
+* P2 -> L1
+* P1 -> P3
+* L2 -> P1
+* L1 -> L3
+* P2 -> L1
+* P1 -> P3
+* L2 -> P1
+* L1 -> L3
+* P2 -> L1
+* P1 -> P3
+
+Ak na konci este ti zostalo z pramenov, tak treba od zaciatku pokracovat. Konce spojime stlacenim:
+
+![Hotove pletenie](vianocka_48.jpg)
+
+Potom opatrne polozime vianocku na plech:
+
+![Vianocka na plech](vianocka_49.jpg)
+![Vianocka na plech](vianocka_50.jpg)
+![Vianocka na plech](vianocka_51.jpg)
+
+Vianocku zakryjeme a nechame pracovat 4 hodiny.
