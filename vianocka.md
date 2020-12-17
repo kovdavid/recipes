@@ -4,13 +4,13 @@ Povodny recept: https://nelkafood.sk/vianocka-z-kvasku/
 
 ## Ingrediencie
 
-* Rozkvas
+* Rozkvas (priprava popisana nizsie)
     * 150g hladkej muky
     * 40g cukru
     * 65g vody
     * 1 polievkovu lyzicu kvasku
-* Sladke mlieko
-    * 1 zltok (vajce)
+* Sladke mlieko (priprava popisana nizsie)
+    * 1 zltok (tj. zlta cast vajca)
     * 130ml mlieka
     * 100g cukru
     * 100g masla
@@ -18,14 +18,14 @@ Povodny recept: https://nelkafood.sk/vianocka-z-kvasku/
     * 300g hladkej muky
     * stipka soli
     * stipka vanilky / vanilkoveho cukru
-    * rozkvas
-    * sladke mlieko
+    * Rozkvas (priprava popisana nizsie)
+    * Sladke mlieko (priprava popisana nizsie)
 * Na dokoncenie
     * 1 vajce (na potretie)
 
 ## Day 1
 
-Okolo 16:00h treba nakrmit kvasok. Staci malo, do receptu ide len 1 polievkova lyzicka, cize staci napr 20g:20g (voda:muka).
+Okolo 16:00h treba nakrmit kvasok. Staci malo, do receptu ide len 1 polievkova lyzica, cize staci napr 20g:20g (voda:muka).
 
 ![Kvasok](vianocka_1.jpg)
 
@@ -43,7 +43,7 @@ Okolo 20:00h treba zacat robit "rozkvas":
 
 ![Voda](vianocka_4.jpg)
 
-* 1 polievkovu lyzicu kvasku
+* 1 polievkova lyzica kvasku
 
 ![Kvasok](vianocka_5.jpg)
 
@@ -51,7 +51,7 @@ Zmiesame to dokopy (naprv lyzicou, ktorou som nabral kvasok - kto bude tolko vec
 
 ![Miesanie lyzicou](vianocka_6.jpg)
 
-Potom do toho zapojime ruku (recept je vhodny aj pre lavakov). Prelozim z jednej strany na druhu a pritlacim.
+Potom do toho zapojime ruku (recept je vhodny aj pre lavakov). Cesto prelozim z jednej strany na druhu a pritlacim.
 
 ![Miesanie rukou](vianocka_7.jpg)
 
@@ -75,11 +75,11 @@ Ideme pripravit "sladke mlieko":
 
 ![Maslo](vianocka_11.jpg)
 
-* 100g cukru (nemusi byt hnede - ine som nemal doma)
+* 100g cukru (nemusi byt hnedy - ine som nemal doma)
 
 ![Cukor](vianocka_12.jpg)
 
-* 130ml mlienka
+* 130ml mlieka
 
 ![Mlieko](vianocka_13.jpg)
 
@@ -88,7 +88,7 @@ Ideme pripravit "sladke mlieko":
 ![Vajco](vianocka_14.jpg)
 ![Zltok](vianocka_15.jpg)
 
-Sladke mlieko dame varit, kym sa neroztopi v nom cukor a maslo:
+Sladke mlieko varime na miernom ohni, kym sa v nom neroztopi cukor aj maslo (nemalo by to vriet):
 
 ![Sladke mlieko](vianocka_16.jpg)
 
@@ -100,7 +100,7 @@ Hotove sladke mlieko:
 
 ![Sladke mlieko](vianocka_18.jpg)
 
-Je to horuce, tak to dame vychladnut - napr. na balkon. Raz za 5 min to trosku rozmiesame. Za takych 20-30min je to ready.
+Je to horuce, tak to dame vychladnut - napr. na balkon (pozor na holuby). Raz za 5 min to trosku premiesame. Za takych 20-30min je to ready.
 
 Ideme zmiesat cesto. Do nadoby s rozkvasom pridame:
 
@@ -130,19 +130,19 @@ Vysledkom ma byt taketo relativne tuhe a mastne cesto:
 ![Miesam](vianocka_25.jpg)
 ![Cesto](vianocka_26.jpg)
 
-Cesto zakryjeme a nechame pracovat na 1 hodinu. Po 1 hodine to vyzera takto:
+Cesto zakryjeme a nechame oddychovat 1 hodinu. Po 1 hodine to vyzera takto:
 
 ![Cesto po 1 hodine](vianocka_27.jpg)
 
-Cesto trosku zmasirujeme - prelozime z jednej strany na druhu a pritlacime. Potom cesto zase zakryjeme a nechame dalej pracovat 1 hodinu.
+Cesto trosku zmasirujeme - prelozime z jednej strany na druhu a pritlacime. Potom cesto zase zakryjeme a nechame dalej oddychovat 1 hodinu.
 
-Po 2 hodinach cesto vyzera takto:
+Potom to vyzera takto:
 
 ![Cesto po 2 hodinach](vianocka_28.jpg)
 
-Cesto trosku zmasirujeme - prelozime z jednej strany na druhu a pritlacime. Potom cesto zase zakryjeme a nechame dalej pracovat 1 hodinu.
+Cesto trosku zmasirujeme - prelozime z jednej strany na druhu a pritlacime. Potom cesto zase zakryjeme a nechame dalej oddychovat 1 hodinu.
 
-Po 3 hodinach cesto vyzera takto:
+Potom to vyzera takto:
 
 ![Cesto po 3 hodinach](vianocka_29.jpg)
 
@@ -152,21 +152,21 @@ Cesto rozdelime podla vahy na 6 rovnakych casti (cca 155g/kus):
 ![Delenie cesta](vianocka_31.jpg)
 ![Delenie cesta](vianocka_34.jpg)
 
-Z jednotlivych casti spravime gule. Rukou ich postlacame a zrolujeme do gule:
+Z jednotlivych casti spravime gule. Rukou ich postlacame a vytvarujeme do gule:
 
 ![Stlacanie](vianocka_35.jpg)
 ![Rolovanie](vianocka_36.jpg)
 ![Gule](vianocka_37.jpg)
 
-Potom tie gule zakryjeme na 20 minut:
+Potom tie gule zakryjeme na 20 minut. Kuk:
 
 ![Zakryte gule](vianocka_38.jpg)
 
-Po 20 minutach ideme konecne na to. Kazdu gulu zrolujeme do "pramenov". Naraz aj rolujeme, at stlacame cesto. Najprv jednou rukou (na zaciatku rolovania mame zavrete prste a potom ich postupne otvarame a tym roztahujeme cesto. Aplikujeme pri tom aj tlak).
+Po 20 minutach ideme konecne na to. Kazdu gulu zrolujeme do "pramenov". Naraz aj rolujeme, aj stlacame cesto. Najprv jednou rukou (na zaciatku rolovania mame zavrete prsty a potom ich postupne otvarame a tym roztahujeme cesto. Aplikujeme pri tom aj tlak).
 
 ![Rolovanie jednou rukou](vianocka_39.jpg)
 
-Potom pouzijeme obe ruky a nadalej rolujeme, roztahujeme to cesto:
+Potom pouzijeme obe ruky a nadalej rolujeme a roztahujeme cesto na dlzku cca 40cm.
 
 ![Rolovanie dvomi rukami](vianocka_40.jpg)
 ![Skoro hotovo](vianocka_41.jpg)
@@ -176,7 +176,7 @@ Nachystame plech s papierom na pecenie. Kedze sme ekologicki, tak pouzijeme uz p
 
 ![Plech](vianocka_43.jpg)
 
-Jednotlive prame rozdelime do dvoch skupin po 3 a konce spojime/stlacime:
+Jednotlive pramene rozdelime do dvoch skupin po 3 a konce spojime/stlacime:
 
 ![Pletenie](vianocka_44.jpg)
 ![Pletenie](vianocka_45.jpg)
@@ -211,7 +211,7 @@ Pletenie robim v takomto poradi:
 * P2 -> L1
 * P1 -> P3
 
-Ak na konci este ti zostalo z pramenov, tak treba od zaciatku pokracovat. Konce spojime stlacenim:
+Ak ti este zostali nezapletena cast pramenov, tak pokracuj od zaciatku poradia. Konce spojime stlacenim:
 
 ![Hotove pletenie](vianocka_48.jpg)
 
@@ -221,11 +221,11 @@ Potom opatrne polozime vianocku na plech:
 ![Vianocka na plech](vianocka_50.jpg)
 ![Vianocka na plech](vianocka_51.jpg)
 
-Vianocku zakryjeme a nechame pracovat 4 hodiny. Potom vianocka vyzera takto:
+Vianocku zakryjeme a nechame oddychovat 4 hodiny. Potom vianocka vyzera takto:
 
 ![Po 4 hodinach](vianocka_52.jpg)
 
-Nachystame vajicko v salke a natreme vianocku (aj boky - netreba sa toho bat. Vajicko doda vianocke farbu).
+Rozmiesame si vajicko v salke a natrieme nim vianocku (aj boky - netreba sa toho bat. Vajicko doda vianocke farbu a lesk).
 
 ![Vajicko](vianocka_53.jpg)
 ![Natierame](vianocka_54.jpg)
@@ -240,11 +240,11 @@ Vianocka po 7 minutach vyzera takto:
 
 ![Vianocka po 7 minutach](vianocka_58.jpg)
 
-Stiahneme ruru na 175C. Potom otvorime dvere rury a dame papier na pecenie aj na vrch vianocky.
+Stiahneme ruru na 175C. Potom otvorime dvere rury a dame papier na pecenie na vrch vianocky.
 
 ![175C](vianocka_59.jpg)
 ![Vianocka pod papierom na pecenie](vianocka_60.jpg)
 
-Po 30 minutach vybereme z rury hotove dielo:
+Po 30 minutach vyberieme z rury hotove dielo:
 
 ![Hotova vianocka](vianocka_61.jpg)
