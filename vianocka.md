@@ -1,12 +1,35 @@
 # Vianocka
 
+Povodny recept: https://nelkafood.sk/vianocka-z-kvasku/
+
+## Ingrediencie
+
+* Rozkvas
+    * 150g hladkej muky
+    * 40g cukru
+    * 65g vody
+    * 1 polievkovu lyzicu kvasku
+* Sladke mlieko
+    * 1 zltok (vajce)
+    * 130ml mlieka
+    * 100g cukru
+    * 100g masla
+* Cesto
+    * 300g hladkej muky
+    * stipka soli
+    * stipka vanilky / vanilkoveho cukru
+    * rozkvas
+    * sladke mlieko
+* Na dokoncenie
+    * 1 vajce (na potretie)
+
 ## Day 1
 
-Okolo 16:00 treba nakrmit kvasok. Staci malo, do receptu ide len 1 polievkova lyzicka, cize staci napr 20:20 (voda:muka).
+Okolo 16:00h treba nakrmit kvasok. Staci malo, do receptu ide len 1 polievkova lyzicka, cize staci napr 20g:20g (voda:muka).
 
 ![Kvasok](vianocka_1.jpg)
 
-Okolo 20:00 treba zacat robit "rozkvas":
+Okolo 20:00h treba zacat robit "rozkvas":
 
 * 150g hladkej muky
 
@@ -20,7 +43,7 @@ Okolo 20:00 treba zacat robit "rozkvas":
 
 ![Voda](vianocka_4.jpg)
 
-* 1 polievkovej lyzice kvasku
+* 1 polievkovu lyzicu kvasku
 
 ![Kvasok](vianocka_5.jpg)
 
