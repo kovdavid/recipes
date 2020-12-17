@@ -1,4 +1,4 @@
-# Vianocka
+# Vianocka z kvasku
 
 Povodny recept: https://nelkafood.sk/vianocka-z-kvasku/
 
