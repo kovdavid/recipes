@@ -59,7 +59,7 @@ Zacneme to miesat. Na zaciatku to nevyzera nic moc:
 
 Nasleduje thajska masaz (cesto to ma velmi rad). Predtym, nez to spravis na linke, ako ja, si treba uvedomit, ze to cesto je lepkave a narobi to neporiadok. Predpokladam, ze toto uz nikto necita a kazdy len pozera fotky.
 
-Ja to robit tak, ze cesto prelozim na polovicu a potom zapojenim vsetkych mojich 60kg vahy pritlacim rukou. Tento proces opakujem 5-10 krat.
+Ja to robim tak, ze cesto prelozim na polovicu a potom zapojenim vsetkych mojich 60kg vahy pritlacim rukou. Tento proces opakujem 5-10 krat.
 
 ![Masaz](croissant/croissant_9.jpg)
 ![Masaz](croissant/croissant_10.jpg)
@@ -77,13 +77,13 @@ Po 30min mame takyto stav:
 
 Zase aplikujem techniku thajskej masaze. Cesto znovu zakryjem a necham oddychovat 3 hodiny na linke.
 
-Po 3 hodinach cesto znovu zmasirujem. Potom cesto odlozim do chladnicky. Pozriem sa na hodiny; je 21:15. Treba ist do sprchy.
+Po 3 hodinach cesto znovu zmasirujem. Potom ho odlozim do chladnicky. Pozriem sa na hodiny; je 21:15. Treba ist do sprchy.
 
 ## Day 2
 
-Pokracujeme. Ranajky, rozcvicka, kakao. Je 8:30 a idem menit dejiny mojej kuchyne.
+Pokracujeme. Ranajky, rozcvicka, kakao. Je 8:30. Citim, ze dnes je dobry den.
 
-Teraz to bude dolezite. Musime rozvalkat aj cesto aj maslo. Ja som najprv riesil maslo, ale kym som sa dostal k pouzitiu masla, tak uz to zmaklo a tazko sa s tym pracovalo. Preto odporucam maslo nechat v chladnicke a zacat pripravenim cesta. Na druhej strane musime vediet, aku velku plochu bude mat rozvalkane maslo, aby sme vedeli odhadnut velkost cesta :D Toto vymyslel sam diabol. Treba pracovat rychlo a malo by to byt OK.
+Teraz to bude dolezite. Musime rozvalkat cesto aj maslo. Ja som najprv riesil maslo, ale kym som sa dostal k jeho vyuzitiu, tak uz to zmaklo a tazko sa s tym pracovalo. Preto odporucam maslo nechat v chladnicke a zacat pripravenim cesta. Na druhej strane musime vediet, aku velku plochu bude mat to rozvalkane maslo, aby sme vedeli odhadnut velkost cesta :D Toto vymyslel sam diabol. Treba pracovat rychlo a malo by to byt OK.
 
 Cesto z chladnicky je relativne tvrde. Idem ho rozvalkat:
 
@@ -106,7 +106,7 @@ Takto maslo "zabalim" do papiera. Idealne tak, aby to malo obdlznikovy tvar.
 ![Maslo](croissant/croissant_22.jpg)
 ![Maslo](croissant/croissant_23.jpg)
 
-Maslo rozbalim a dam na cesto (cim tvrdsie je to maslo, tym lahsie to pojde).
+Maslo rozbalim a dam na cesto (cim tvrdsie/chladnejsie je to maslo, tym lahsie to pojde).
 
 ![Maslo](croissant/croissant_28.jpg)
 ![Cesto](croissant/croissant_26.jpg)
@@ -175,7 +175,7 @@ Cesto po 30min vyberem z chladnicky a rozvalam (posleny raz, slubujem!) na velko
 ![Cesto](croissant/croissant_56.jpg)
 ![Cesto](croissant/croissant_57.jpg)
 
-Potom cesto rozkrajame na trojuholnikmi (su 12cm siroke).
+Potom cesto rozkrajame na trojuholniky (su 12cm siroke).
 
 ![Cesto](croissant/croissant_58.jpg)
 ![Cesto](croissant/croissant_59.jpg)
@@ -189,12 +189,12 @@ Croissanty dame na plech a potreme ich vajickom. Vsimni si, ze koniec croissanto
 ![Cesto](croissant/croissant_61.jpg)
 ![Cesto](croissant/croissant_62.jpg)
 
-Croissanty zakryjeme nasim eko-fuj sackom aj utierkou a nechame ich pracovat 4 hodiny.
+Croissanty zakryjeme nasim eko-fuj sackom aj utierkou a nechame ich kysnut 4 hodiny.
 
 ![Cesto](croissant/croissant_63.jpg)
 ![Cesto](croissant/croissant_64.jpg)
 
-Po 4 hodinach croissanty narastli. Znovu ich natrieme vajickom.
+Po 4 hodinach croissanty narastli. Znovu ich natreme vajickom.
 
 ![Cesto](croissant/croissant_78.jpg)
 ![Cesto](croissant/croissant_79.jpg)
@@ -218,7 +218,7 @@ Uz snad kazdy chape, co som myslel pod kombinaciou vianocky a croissantu :D
 
 ![Cesto](croissant/croissant_89.jpg)
 
-Tentokrat som nemal uplne dobry kvasok. Treba raz za cas umyt nadobu, v ktorom drzite kvasok.
+Tentokrat som nemal uplne dobry kvasok, preto asi ten finalny produkt. Treba raz za cas umyt nadobu, v ktorom drzite kvasok...
 
 Dobru chut :)
 
