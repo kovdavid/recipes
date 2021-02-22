@@ -4,7 +4,7 @@ Povodny recept: https://www.youtube.com/watch?v=YvJrRe0sXmQ
 
 ## Uvod
 
-A sme tu... Bolo to len otazka casu. Vianocku som sa uz naucil, tak som potreboval novu vyzvu. Tak som skombinoval croissant s vianockou (detaily na konci) :D Odporucam najprv precitat cely recept.
+A sme tu... Bolo to len otazka casu. Vianocku som sa uz naucil, tak som potreboval novu vyzvu. Tak som skombinoval croissant s vianockou :D (pochopis na konci).
 
 Tento ~~recept~~ navod (recepty su pre tych, ktori uz vedia, ako na to. Navod je pre nas zvysnych :D) predpoklada, ze citatel pozna moj navod na [vianocku](vianocka.md).
 
@@ -23,7 +23,7 @@ Tento ~~recept~~ navod (recepty su pre tych, ktori uz vedia, ako na to. Navod je
 
 ## Day 1
 
-Okolo 13:30h treba nakrmit kvasok (tento navod je prisposobeny na moj spaci rezim. Kazdy to moze robit podla seba; staci dodrzat casy medzi jednotlivymi krokmi). Staci malo, do receptu ide len 1 polievkova lyzica, cize staci napr 20g:20g (voda:muka).
+Okolo 13:30h treba nakrmit kvasok (tento navod je prisposobeny na moj rezim spanku. Kazdy to moze robit podla seba; staci dodrzat casy medzi jednotlivymi krokmi). Staci malo, do receptu ide len 1 polievkova lyzica, cize staci napr 20g:20g (voda:muka).
 
 Okolo 17:30 zacnem pripravovat cesto (vtedy uz by mal byt kvasok aktivny a silny). Vsetko nachystam do mojej popularnej fialovej misky.
 
