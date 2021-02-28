@@ -1,6 +1,6 @@
 # Kvaskovy croissant
 
-[Dalsie recepty](README.md)
+[Dalsie recepty](index.md)
 
 Povodny recept: https://www.youtube.com/watch?v=YvJrRe0sXmQ
 

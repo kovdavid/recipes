@@ -1,6 +1,6 @@
 # Vianocka z kvasku
 
-[Dalsie recepty](README.md)
+[Dalsie recepty](index.md)
 
 Povodny recept: https://nelkafood.sk/vianocka-z-kvasku/
 
