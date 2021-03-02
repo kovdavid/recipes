@@ -1,10 +1,10 @@
-# Ryba
+# Ryba so zemiakmi
 
 [Dalsie recepty](index.md)
 
 ## Ingrediencie
 
-* Ryba
+* Ryba (v tomto pripade zubac)
 * Citron
 * Sol
 * Zemiaky
@@ -14,7 +14,7 @@
 
 Bol som velmi prekvapeny, ako jednoducho sa da spravit rybu na panvici (tj. dokaze to aj programator). Ako prilohu budeme mat zemiaky. Zacneme rovno s nimi:
 
-Dame zemiaky do hrnca a zalejeme ich studenou vodou (do vody dame 1/2 stipky soli). Nechame ich varit:
+Dame zemiaky do hrnca a zalejeme ich teplou vodou (netreba z kanvice, staci z kohutika..kiriki). Nechame ich varit:
 
 ![krumpli](fish/fish_45.jpg)
 
