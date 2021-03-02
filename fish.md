@@ -115,7 +115,7 @@ Sem-tam som pritlacal tie casti, ktore boli vo vzduchu:
 
 ![fish](fish/fish_24.jpg)
 
-Cele toto trvalo mozno 5 minut (odhad - nemeral som. Hrozne, ja viem.). To, kedy je ryba hotova zistime ochutnanim. Mozeme jeden kus rozkrojit (na tanieri v sulade s normami o bezpecnosti pri praci) a pozriet sa, ci nie je vo vnutri este surovy.
+Cele to trvalo mozno 5 minut (odhad - nemeral som. Hrozne, ja viem.). To, kedy je ryba hotova zistime ochutnanim. Mozeme jeden kusok rozkrojit (na tanieri v sulade s normami o bezpecnosti pri praci) a pozriet sa, ci nie je vo vnutri este surovy.
 
 ![fish](fish/fish_26.jpg)
 
