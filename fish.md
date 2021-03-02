@@ -73,7 +73,7 @@ Nachystame si panvicu aj s pokrievkou:
 
 ![fish](fish/fish_10.jpg)
 
-Do pancive dam maslo (namiesto oleja - doda inu chut):
+Do panvice dam maslo (namiesto oleja - doda inu chut):
 
 ![fish](fish/fish_11.jpg)
 
