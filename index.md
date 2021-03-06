@@ -5,3 +5,4 @@ Na tejto stranke zbieram svoj repertoar navodov na pripravu jedal. Snazim sa cel
 * [Vianocka z kvasku](vianocka.md)
 * [Kvaskovy croissant](croissant.md)
 * [Ryba na panvici so zemiakmi](fish.md)
+* [Domace slize](domace_slize.md)
