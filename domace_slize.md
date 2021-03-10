@@ -34,6 +34,10 @@ Cesto vysypeme na dosku a spravime takyto krater:
 Pridame vajce.
 
 ![slize](domace_slize/slize_7.jpg)
+
+Pridame stipku soli.
+
+![Sol](vianocka/vianocka_20.jpg)
 ![slize](domace_slize/slize_8.jpg)
 ![slize](domace_slize/slize_9.jpg)
 
