@@ -35,11 +35,11 @@ Slnecnicove semienka:
 
 Tekvicove semienka:
 
-![jogurt](jogurt_na_ranajky/ranajky_13.jpg)
+![jogurt](jogurt_na_ranajky/ranajky_14.jpg)
 
 Mandle:
 
-![jogurt](jogurt_na_ranajky/ranajky_14.jpg)
+![jogurt](jogurt_na_ranajky/ranajky_15.jpg)
 
 Vlasske orechy:
 
