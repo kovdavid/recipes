@@ -45,16 +45,16 @@ Vlasske orechy:
 
 ![jogurt](jogurt_na_ranajky/ranajky_18.jpg)
 
-Ak mam doma, tak nakrajam si aj banan:
+Ak mam doma, tak nakrajam aj banan:
 
 ![jogurt](jogurt_na_ranajky/ranajky_20.jpg)
 ![jogurt](jogurt_na_ranajky/ranajky_21.jpg)
 
-Niekedy tam dam aj cucoriedku:
+Niekedy tam dam aj cucoriedky, alebo nastruham jablko:
 
 ![jogurt](jogurt_na_ranajky/ranajky_22.jpg)
 
-Najlepsim pridavkom je dobry med!
+Na zaver nesmie chybat dobry a kvalitny med (idealne od vcelara)!
 
 ![jogurt](jogurt_na_ranajky/ranajky_23.jpg)
 
