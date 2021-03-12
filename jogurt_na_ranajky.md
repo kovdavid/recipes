@@ -12,7 +12,7 @@ Pridame ovsene vlocky (nechutene):
 
 ![jogurt](jogurt_na_ranajky/ranajky_3.jpg)
 
-Potom tam dame lan:
+Potom tam dame lanove semienka:
 
 ![jogurt](jogurt_na_ranajky/ranajky_4.jpg)
 
