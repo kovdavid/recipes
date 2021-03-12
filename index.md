@@ -7,3 +7,4 @@ Na tejto stranke zbieram svoj repertoar navodov na pripravu jedal. Snazim sa cel
 * [Ryba na panvici so zemiakmi](fish.md)
 * [Domace slize](domace_slize.md)
 * [Klicky](klicky.md)
+* [Jogurt na ranajky](jogurt_na_ranajky.md)
