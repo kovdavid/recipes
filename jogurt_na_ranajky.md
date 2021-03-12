@@ -8,7 +8,7 @@ Zaciname greckym jogurtom.
 
 ![jogurt](jogurt_na_ranajky/ranajky_2.jpg)
 
-Pridame ovsene vlocky (nechutene):
+Pridame ovsene vlocky (neochutene):
 
 ![jogurt](jogurt_na_ranajky/ranajky_3.jpg)
 
