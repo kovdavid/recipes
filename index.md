@@ -6,3 +6,4 @@ Na tejto stranke zbieram svoj repertoar navodov na pripravu jedal. Snazim sa cel
 * [Kvaskovy croissant](croissant.md)
 * [Ryba na panvici so zemiakmi](fish.md)
 * [Domace slize](domace_slize.md)
+* [Klicky](klicky.md)
